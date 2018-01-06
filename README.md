@@ -4,4 +4,7 @@
 - 前台应用安装
 ## 大数据安装
 1. ambari安装
+```shell
+ambari-server start
+```
 2. HDP安装
