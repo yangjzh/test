@@ -8,3 +8,5 @@
 ambari-server start
 ```
 2. HDP安装
+
+测试免密
