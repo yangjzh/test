@@ -1,12 +1,19 @@
-# BO系统部署
-- 大数据平台安装
-- 后台应用程序安装
-- 前台应用安装
-## 大数据安装
-1. ambari安装
-```shell
-ambari-server start
-```
-2. HDP安装
+mermaid: true
 
-测试免密
+例如本篇文章的配置：
+
+---
+layout: post
+title: Github 博客画流程图
+category: how2blog
+tags: [tools, study, markdown]
+mermaid: true
+---
+```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[Car]
+```
